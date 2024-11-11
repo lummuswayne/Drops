@@ -1,9 +1,10 @@
 {
-	"id": "43abbeb3-0b85-4dd4-ba9b-6dcbd85de344",
-	"authors": ["Bdaum - Made with AMP Config Generator"],
-	"origin": "https://github.com/Bdaum - Made with AMP Config Generator/AMPTemplates.git",
-	"url": "https://github.com/Bdaum - Made with AMP Config Generator/AMPTemplates",
-	"imagefile": "",
-	"prefix": "Bdaum - Made with AMP Config Generator",
-	"repotype": "AppTemplates"
+    "id": "43abbeb3-0b85-4dd4-ba9b-6dcbd85de344",
+    "authors": [
+        "Bdaum - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Bdaum - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Bdaum - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Bdaum - Made with AMP Config Generator"
 }
